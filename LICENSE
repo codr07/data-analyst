@@ -1,21 +1,51 @@
-MIT License
+PROPRIETARY AND COPYRIGHT LICENSE AGREEMENT
 
-Copyright (c) 2026 Sankha Saha (CODR)
+Copyright (c) 2026 Sankha Saha (CODR). All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. DECLARATION OF ORIGINAL AUTHORSHIP & OWNERSHIP
+This software, including all source code, algorithms, assets, user interfaces, documentation, databases, and design systems (collectively, the "Software"), is the 100% original creation of Sankha Saha (CODR). The Author declares that this Software has been built entirely independently, does not duplicate or infringe upon the intellectual property, copyright, trade secret, or patents of any third party, and is legally clear of all external claims.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. RESTRICTIONS ON USE, DUPLICATION, AND DISTRIBUTION
+No permission, license, or right is granted to any person, organization, or entity to:
+a. Copy, duplicate, reproduce, clone, or replicate any portion of this Software or its source code.
+b. Modify, adapt, translate, reverse engineer, decompile, disassemble, or derive source code from the Software.
+c. Publish, distribute, sublicense, rent, lease, lend, or sell copies or derivatives of the Software.
+d. Use the Software for any commercial or non-commercial purposes without the express, prior written consent of the Author.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. GLOBAL AND INDIAN LEGAL JUSTIFICATION AND SECTIONS
+This Software is protected under national and international intellectual property laws, copyright treaties, and conventions, including but not limited to:
+
+A. INDIAN LEGISLATIVE ACTIONS & RULES:
+- The Indian Copyright Act, 1957:
+  - Section 2(o): Classifies "computer programmes, tables and compilations including computer databases" as protected "literary works".
+  - Section 14(a) & 14(b): Grantes exclusive proprietary and reproduction rights of the computer program to the Copyright Owner.
+  - Section 51: Outlines what constitutes copyright infringement.
+  - Section 63: Establishes copyright infringement as a cognizable and non-bailable criminal offense, punishable by imprisonment for a term of 6 months to 3 years, and a fine of ₹50,000 to ₹2,00,000.
+  - Section 63A: Prescribes enhanced mandatory minimum penalties for second and subsequent convictions (imprisonment of 1 to 3 years, and a fine of ₹1,00,000 to ₹2,00,000).
+  - Section 64: Empowers police officers (not below the rank of Sub-Inspector) to seize all infringing copies, source codes, hardware, and server systems without a warrant.
+  - Section 65 & 65A: Details criminal penalties for circumvention of technological protection measures.
+  - Section 65B: Details criminal penalties for unauthorized removal or alteration of Rights Management Information (RMI).
+- The Information Technology Act, 2000 (IT Act):
+  - Section 43: Mandates liability to pay heavy damages/compensation to the owner for unauthorized copying, downloading, extracting, or accessing of software and data.
+  - Section 66: Establishes criminal liability for computer-related offenses referred to in Section 43, carrying a punishment of imprisonment up to 3 years, or a fine up to ₹5,00,000, or both.
+  - Section 66B: Penalizes dishonestly receiving stolen computer resources or software with up to 3 years imprisonment or ₹1,00,000 fine, or both.
+
+B. INTERNATIONAL TREATIES & GLOBAL LAWS:
+- The Berne Convention for the Protection of Literary and Artistic Works (providing automatic copyright protection across 180+ member nations without requiring separate registration).
+- The WIPO (World Intellectual Property Organization) Copyright Treaty.
+- The Universal Copyright Convention (UCC).
+- The United States Copyright Act (17 U.S.C. §§ 101 et seq.):
+  - 17 U.S.C. § 501 (Infringement of Copyright).
+  - 17 U.S.C. § 504 (Civil remedies, allowing recovery of actual damages or statutory damages up to $150,000 per willful infringement).
+  - 17 U.S.C. § 506 & 18 U.S.C. § 2319 (Federal criminal prosecution, carrying up to 5 years imprisonment and severe fines).
+- The Digital Millennium Copyright Act (DMCA) (17 U.S.C. § 1201 et seq.).
+- The European Union Copyright Directive (Directive 2019/790) and member states' national IP laws.
+
+4. INFRINGEMENT, CIVIL REMEDIES, AND CRIMINAL PROSECUTION
+Any unauthorized copying, distribution, plagiarism, or theft of this Software constitutes copyright infringement and intellectual property theft. The Author will enforce their rights to the maximum extent permitted by law:
+a. Civil Action: Infringers will be prosecuted in civil courts (including High Courts in India exercising ordinary original civil jurisdiction) to recover all damages, profits made from infringement, statutory damages, and legal costs (including attorney fees).
+b. Criminal Prosecution & Arrest: Infringement is a criminal offense under the Indian Copyright Act (Section 63) and equivalent global laws. The Author will file a First Information Report (FIR) with Cyber Crime Cells and police departments. Under Indian law (Section 64), police can execute zero-warrant raids, confiscate offending computer systems, and arrest the accused parties.
+c. DMCA & International Take-down Actions: The Author will issue immediate take-down notices to hosting providers, domain registrars, app stores, and search engines to disable access to any infringing materials.
+
+5. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

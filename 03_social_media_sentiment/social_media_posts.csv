@@ -1,0 +1,401 @@
+Post_ID,Date,Username,Text,True_Sentiment
+POST0033,2026-01-02 00:00:00,@code_ninja,Great customer support! Resolved my query in under 5 minutes. highly recommend. Thanks to the developers!,Positive
+POST0080,2026-01-02 00:00:00,@analyst_sam,High latency and constant lag. This is definitely not the standard we expected.,Negative
+POST0234,2026-01-02 00:00:00,@biz_leader,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0021,2026-01-04 00:00:00,@code_ninja,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0047,2026-01-04 00:00:00,@cloud_expert,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business,Positive
+POST0069,2026-01-04 00:00:00,@dev_alice,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0113,2026-01-04 00:00:00,@it_manager,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0198,2026-01-04 00:00:00,@dev_alice,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0221,2026-01-04 00:00:00,@biz_leader,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0002,2026-01-05 00:00:00,@startup_founder,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business,Positive
+POST0053,2026-01-05 00:00:00,@cloud_expert,The antigravity framework is incredibly fast. Perceived latency is virtually zero! Thanks to the developers!,Positive
+POST0201,2026-01-05 00:00:00,@data_dan,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response. Please fix this ASAP.",Negative
+POST0280,2026-01-05 00:00:00,@tech_guru,We are currently evaluating multiple BI tools for our team's workflow.,Neutral
+POST0301,2026-01-05 00:00:00,@analyst_sam,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0028,2026-01-06 00:00:00,@dev_alice,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response.",Negative
+POST0269,2026-01-06 00:00:00,@it_manager,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response. Please fix this ASAP.",Negative
+POST0006,2026-01-07 00:00:00,@tech_guru,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0096,2026-01-07 00:00:00,@analyst_sam,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance. Please fix this ASAP.",Negative
+POST0116,2026-01-07 00:00:00,@startup_founder,The antigravity framework is incredibly fast. Perceived latency is virtually zero!,Positive
+POST0143,2026-01-07 00:00:00,@tech_guru,The interface feels very clunky and outdated. Needs a major visual redesign.,Negative
+POST0211,2026-01-07 00:00:00,@tech_guru,Just downloaded the new analytics tool. Let's see how it compares to others.,Neutral
+POST0268,2026-01-08 00:00:00,@biz_leader,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0327,2026-01-08 00:00:00,@it_manager,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0087,2026-01-09 00:00:00,@code_ninja,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0099,2026-01-09 00:00:00,@analyst_sam,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0108,2026-01-09 00:00:00,@code_ninja,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0136,2026-01-09 00:00:00,@data_dan,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0258,2026-01-09 00:00:00,@analyst_sam,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0296,2026-01-09 00:00:00,@startup_founder,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0036,2026-01-10 00:00:00,@code_ninja,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0137,2026-01-10 00:00:00,@it_manager,Is there a way to export the reports to PDF directly? Checking the documentation now.,Neutral
+POST0330,2026-01-10 00:00:00,@analyst_sam,Great customer support! Resolved my query in under 5 minutes. highly recommend. Thanks to the developers!,Positive
+POST0005,2026-01-11 00:00:00,@analyst_sam,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0019,2026-01-11 00:00:00,@analyst_sam,The interface feels very clunky and outdated. Needs a major visual redesign.,Negative
+POST0054,2026-01-11 00:00:00,@data_dan,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0061,2026-01-11 00:00:00,@cloud_expert,Standard data analytics platform. Has all the basic features you'd expect.,Neutral
+POST0088,2026-01-11 00:00:00,@cloud_expert,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0184,2026-01-13 00:00:00,@data_dan,"This software is a game changer for our business intelligence pipeline. Great job, team!",Positive
+POST0210,2026-01-13 00:00:00,@data_dan,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0281,2026-01-13 00:00:00,@data_dan,The app underwent scheduled server maintenance last night. No major changes noticed.,Neutral
+POST0353,2026-01-13 00:00:00,@cloud_expert,"This software is a game changer for our business intelligence pipeline. Great job, team!",Positive
+POST0142,2026-01-14 00:00:00,@tech_guru,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0183,2026-01-14 00:00:00,@cloud_expert,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0244,2026-01-14 00:00:00,@dev_alice,The app underwent scheduled server maintenance last night. No major changes noticed.,Neutral
+POST0282,2026-01-14 00:00:00,@biz_leader,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0340,2026-01-14 00:00:00,@dev_alice,High latency and constant lag. This is definitely not the standard we expected.,Negative
+POST0148,2026-01-15 00:00:00,@analyst_sam,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance.",Negative
+POST0308,2026-01-15 00:00:00,@analyst_sam,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0199,2026-01-16 00:00:00,@tech_guru,Great customer support! Resolved my query in under 5 minutes. highly recommend.,Positive
+POST0213,2026-01-16 00:00:00,@data_queen,Is there a way to export the reports to PDF directly? Checking the documentation now.,Neutral
+POST0287,2026-01-16 00:00:00,@code_ninja,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response.",Negative
+POST0329,2026-01-16 00:00:00,@it_manager,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0360,2026-01-16 00:00:00,@code_ninja,Best tool in the market for data analysts. The visualization capabilities are second to none. Thanks to the developers!,Positive
+POST0214,2026-01-17 00:00:00,@code_ninja,The documentation is extremely outdated. Half of the API endpoints don't work as documented. Please fix this ASAP.,Negative
+POST0239,2026-01-17 00:00:00,@data_dan,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0364,2026-01-17 00:00:00,@it_manager,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0174,2026-01-18 00:00:00,@data_queen,The pricing model is a complete rip-off. Too expensive for such basic features. Please fix this ASAP.,Negative
+POST0172,2026-01-19 00:00:00,@data_queen,The app underwent scheduled server maintenance last night. No major changes noticed.,Neutral
+POST0017,2026-01-20 00:00:00,@code_ninja,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0039,2026-01-20 00:00:00,@it_manager,Is there a way to export the reports to PDF directly? Checking the documentation now.,Neutral
+POST0060,2026-01-20 00:00:00,@biz_leader,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0295,2026-01-20 00:00:00,@cloud_expert,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance. Please fix this ASAP.",Negative
+POST0348,2026-01-20 00:00:00,@biz_leader,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0046,2026-01-21 00:00:00,@data_dan,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0107,2026-01-21 00:00:00,@dev_alice,The antigravity framework is incredibly fast. Perceived latency is virtually zero!,Positive
+POST0200,2026-01-21 00:00:00,@code_ninja,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0336,2026-01-21 00:00:00,@analyst_sam,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0385,2026-01-21 00:00:00,@biz_leader,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0230,2026-01-22 00:00:00,@dev_alice,Encountered a major bug in the SQL query parser. It threw a database connection timeout again. Please fix this ASAP.,Negative
+POST0063,2026-01-23 00:00:00,@startup_founder,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0238,2026-01-23 00:00:00,@biz_leader,The app underwent scheduled server maintenance last night. No major changes noticed.,Neutral
+POST0357,2026-01-23 00:00:00,@cloud_expert,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0026,2026-01-24 00:00:00,@data_dan,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0112,2026-01-24 00:00:00,@startup_founder,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0117,2026-01-24 00:00:00,@code_ninja,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance. Please fix this ASAP.",Negative
+POST0158,2026-01-24 00:00:00,@startup_founder,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0179,2026-01-24 00:00:00,@biz_leader,We are currently evaluating multiple BI tools for our team's workflow.,Neutral
+POST0243,2026-01-24 00:00:00,@biz_leader,Just downloaded the new analytics tool. Let's see how it compares to others.,Neutral
+POST0252,2026-01-24 00:00:00,@tech_guru,Full of bugs and random crashes. Do not waste your money on this. Please fix this ASAP.,Negative
+POST0257,2026-01-24 00:00:00,@data_dan,Terrible experience. The dashboard crashed twice in the middle of our presentation.,Negative
+POST0328,2026-01-24 00:00:00,@data_queen,The interface feels very clunky and outdated. Needs a major visual redesign.,Negative
+POST0366,2026-01-24 00:00:00,@data_dan,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0178,2026-01-25 00:00:00,@code_ninja,CODR Analytics has released its quarterly update today. #tech #software,Neutral
+POST0396,2026-01-25 00:00:00,@cloud_expert,Just downloaded the new analytics tool. Let's see how it compares to others.,Neutral
+POST0011,2026-01-26 00:00:00,@code_ninja,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0155,2026-01-26 00:00:00,@startup_founder,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0370,2026-01-26 00:00:00,@data_dan,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0114,2026-01-27 00:00:00,@it_manager,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0074,2026-01-28 00:00:00,@it_manager,Great customer support! Resolved my query in under 5 minutes. highly recommend. Thanks to the developers!,Positive
+POST0091,2026-01-28 00:00:00,@cloud_expert,The interface feels very clunky and outdated. Needs a major visual redesign.,Negative
+POST0105,2026-01-28 00:00:00,@data_dan,The app underwent scheduled server maintenance last night. No major changes noticed.,Neutral
+POST0159,2026-01-28 00:00:00,@cloud_expert,The interface feels very clunky and outdated. Needs a major visual redesign.,Negative
+POST0223,2026-01-28 00:00:00,@biz_leader,Great customer support! Resolved my query in under 5 minutes. highly recommend.,Positive
+POST0224,2026-01-28 00:00:00,@dev_alice,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response.",Negative
+POST0376,2026-01-28 00:00:00,@data_dan,New version released. Testing the query speeds on our staging server.,Neutral
+POST0111,2026-01-29 00:00:00,@biz_leader,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0167,2026-01-29 00:00:00,@analyst_sam,The documentation is extremely outdated. Half of the API endpoints don't work as documented. Please fix this ASAP.,Negative
+POST0367,2026-01-29 00:00:00,@data_dan,Full of bugs and random crashes. Do not waste your money on this.,Negative
+POST0381,2026-01-29 00:00:00,@tech_guru,We are currently evaluating multiple BI tools for our team's workflow.,Neutral
+POST0241,2026-01-31 00:00:00,@it_manager,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0347,2026-01-31 00:00:00,@analyst_sam,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0001,2026-02-01 00:00:00,@tech_guru,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0326,2026-02-01 00:00:00,@it_manager,New version released. Testing the query speeds on our staging server.,Neutral
+POST0372,2026-02-01 00:00:00,@startup_founder,"Stunning dashboard design by CODR. Simple, clean, and highly interactive. Thanks to the developers!",Positive
+POST0131,2026-02-02 00:00:00,@code_ninja,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0215,2026-02-02 00:00:00,@data_queen,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0274,2026-02-02 00:00:00,@code_ninja,The antigravity framework is incredibly fast. Perceived latency is virtually zero!,Positive
+POST0297,2026-02-02 00:00:00,@dev_alice,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0305,2026-02-02 00:00:00,@data_queen,New version released. Testing the query speeds on our staging server.,Neutral
+POST0076,2026-02-03 00:00:00,@biz_leader,Full of bugs and random crashes. Do not waste your money on this. Please fix this ASAP.,Negative
+POST0161,2026-02-03 00:00:00,@code_ninja,Encountered a major bug in the SQL query parser. It threw a database connection timeout again. Please fix this ASAP.,Negative
+POST0245,2026-02-03 00:00:00,@cloud_expert,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0025,2026-02-04 00:00:00,@dev_alice,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0157,2026-02-04 00:00:00,@analyst_sam,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0378,2026-02-04 00:00:00,@dev_alice,The app underwent scheduled server maintenance last night. No major changes noticed.,Neutral
+POST0055,2026-02-05 00:00:00,@startup_founder,The documentation is extremely outdated. Half of the API endpoints don't work as documented.,Negative
+POST0204,2026-02-05 00:00:00,@data_queen,"Stunning dashboard design by CODR. Simple, clean, and highly interactive. Thanks to the developers!",Positive
+POST0202,2026-02-06 00:00:00,@data_queen,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0219,2026-02-06 00:00:00,@it_manager,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0057,2026-02-07 00:00:00,@code_ninja,Great customer support! Resolved my query in under 5 minutes. highly recommend.,Positive
+POST0109,2026-02-07 00:00:00,@it_manager,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0154,2026-02-07 00:00:00,@tech_guru,Great customer support! Resolved my query in under 5 minutes. highly recommend.,Positive
+POST0207,2026-02-07 00:00:00,@tech_guru,The pricing model is a complete rip-off. Too expensive for such basic features. Please fix this ASAP.,Negative
+POST0288,2026-02-07 00:00:00,@data_queen,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response.",Negative
+POST0346,2026-02-07 00:00:00,@tech_guru,The antigravity framework is incredibly fast. Perceived latency is virtually zero! Thanks to the developers!,Positive
+POST0162,2026-02-08 00:00:00,@it_manager,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0206,2026-02-08 00:00:00,@cloud_expert,Looking for recommendations for a reliable forecasting tool. Any thoughts?,Neutral
+POST0251,2026-02-09 00:00:00,@dev_alice,Extremely disappointed with the latest update. The interface keeps freezing on load. Please fix this ASAP.,Negative
+POST0264,2026-02-09 00:00:00,@dev_alice,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0362,2026-02-09 00:00:00,@tech_guru,The app underwent scheduled server maintenance last night. No major changes noticed.,Neutral
+POST0082,2026-02-10 00:00:00,@it_manager,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0192,2026-02-10 00:00:00,@biz_leader,The antigravity framework is incredibly fast. Perceived latency is virtually zero!,Positive
+POST0056,2026-02-11 00:00:00,@it_manager,Great customer support! Resolved my query in under 5 minutes. highly recommend. Thanks to the developers!,Positive
+POST0078,2026-02-11 00:00:00,@biz_leader,New version released. Testing the query speeds on our staging server.,Neutral
+POST0271,2026-02-11 00:00:00,@analyst_sam,New version released. Testing the query speeds on our staging server.,Neutral
+POST0344,2026-02-11 00:00:00,@data_queen,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0141,2026-02-12 00:00:00,@data_dan,Great customer support! Resolved my query in under 5 minutes. highly recommend.,Positive
+POST0235,2026-02-12 00:00:00,@cloud_expert,"So easy to use, even our marketing team can run queries now. Fantastic UX design.",Positive
+POST0040,2026-02-13 00:00:00,@analyst_sam,"Stunning dashboard design by CODR. Simple, clean, and highly interactive. Thanks to the developers!",Positive
+POST0119,2026-02-13 00:00:00,@startup_founder,Looking for recommendations for a reliable forecasting tool. Any thoughts?,Neutral
+POST0149,2026-02-13 00:00:00,@code_ninja,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0194,2026-02-13 00:00:00,@it_manager,Terrible experience. The dashboard crashed twice in the middle of our presentation.,Negative
+POST0261,2026-02-13 00:00:00,@data_dan,High latency and constant lag. This is definitely not the standard we expected. Please fix this ASAP.,Negative
+POST0324,2026-02-13 00:00:00,@code_ninja,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0030,2026-02-14 00:00:00,@it_manager,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0220,2026-02-14 00:00:00,@it_manager,Encountered a major bug in the SQL query parser. It threw a database connection timeout again. Please fix this ASAP.,Negative
+POST0299,2026-02-14 00:00:00,@analyst_sam,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0369,2026-02-14 00:00:00,@dev_alice,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0392,2026-02-14 00:00:00,@data_queen,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0020,2026-02-15 00:00:00,@analyst_sam,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0125,2026-02-15 00:00:00,@startup_founder,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0128,2026-02-15 00:00:00,@analyst_sam,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance. Please fix this ASAP.",Negative
+POST0232,2026-02-15 00:00:00,@biz_leader,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0024,2026-02-16 00:00:00,@startup_founder,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0097,2026-02-16 00:00:00,@dev_alice,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0123,2026-02-16 00:00:00,@data_dan,Looking for recommendations for a reliable forecasting tool. Any thoughts?,Neutral
+POST0126,2026-02-16 00:00:00,@cloud_expert,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0248,2026-02-16 00:00:00,@data_queen,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0255,2026-02-16 00:00:00,@dev_alice,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0389,2026-02-16 00:00:00,@it_manager,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0118,2026-02-17 00:00:00,@dev_alice,"This software is a game changer for our business intelligence pipeline. Great job, team!",Positive
+POST0177,2026-02-17 00:00:00,@tech_guru,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0193,2026-02-17 00:00:00,@biz_leader,The antigravity framework is incredibly fast. Perceived latency is virtually zero!,Positive
+POST0292,2026-02-17 00:00:00,@data_dan,The antigravity framework is incredibly fast. Perceived latency is virtually zero! Thanks to the developers!,Positive
+POST0325,2026-02-17 00:00:00,@analyst_sam,We are currently evaluating multiple BI tools for our team's workflow.,Neutral
+POST0165,2026-02-18 00:00:00,@analyst_sam,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0166,2026-02-18 00:00:00,@cloud_expert,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0058,2026-02-19 00:00:00,@data_dan,The antigravity framework is incredibly fast. Perceived latency is virtually zero!,Positive
+POST0146,2026-02-19 00:00:00,@code_ninja,Encountered a major bug in the SQL query parser. It threw a database connection timeout again. Please fix this ASAP.,Negative
+POST0153,2026-02-19 00:00:00,@code_ninja,We are currently evaluating multiple BI tools for our team's workflow.,Neutral
+POST0164,2026-02-19 00:00:00,@tech_guru,High latency and constant lag. This is definitely not the standard we expected.,Negative
+POST0293,2026-02-19 00:00:00,@code_ninja,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0338,2026-02-19 00:00:00,@analyst_sam,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0168,2026-02-20 00:00:00,@code_ninja,Encountered a major bug in the SQL query parser. It threw a database connection timeout again.,Negative
+POST0231,2026-02-20 00:00:00,@code_ninja,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business,Positive
+POST0263,2026-02-20 00:00:00,@cloud_expert,Best tool in the market for data analysts. The visualization capabilities are second to none. Thanks to the developers!,Positive
+POST0275,2026-02-20 00:00:00,@it_manager,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0294,2026-02-20 00:00:00,@data_dan,The antigravity framework is incredibly fast. Perceived latency is virtually zero!,Positive
+POST0298,2026-02-20 00:00:00,@analyst_sam,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response. Please fix this ASAP.",Negative
+POST0052,2026-02-21 00:00:00,@data_queen,Great customer support! Resolved my query in under 5 minutes. highly recommend.,Positive
+POST0145,2026-02-21 00:00:00,@data_dan,Is there a way to export the reports to PDF directly? Checking the documentation now.,Neutral
+POST0124,2026-02-22 00:00:00,@analyst_sam,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0173,2026-02-22 00:00:00,@tech_guru,The documentation is extremely outdated. Half of the API endpoints don't work as documented. Please fix this ASAP.,Negative
+POST0170,2026-02-23 00:00:00,@dev_alice,Just downloaded the new analytics tool. Let's see how it compares to others.,Neutral
+POST0093,2026-02-24 00:00:00,@cloud_expert,Great customer support! Resolved my query in under 5 minutes. highly recommend. Thanks to the developers!,Positive
+POST0127,2026-02-24 00:00:00,@cloud_expert,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0247,2026-02-24 00:00:00,@data_dan,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0270,2026-02-24 00:00:00,@biz_leader,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0286,2026-02-24 00:00:00,@data_dan,Is there a way to export the reports to PDF directly? Checking the documentation now.,Neutral
+POST0361,2026-02-24 00:00:00,@dev_alice,Best tool in the market for data analysts. The visualization capabilities are second to none. Thanks to the developers!,Positive
+POST0065,2026-02-25 00:00:00,@code_ninja,"This software is a game changer for our business intelligence pipeline. Great job, team!",Positive
+POST0095,2026-02-25 00:00:00,@it_manager,Encountered a major bug in the SQL query parser. It threw a database connection timeout again.,Negative
+POST0009,2026-02-26 00:00:00,@data_dan,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0048,2026-02-26 00:00:00,@code_ninja,Just downloaded the new analytics tool. Let's see how it compares to others.,Neutral
+POST0064,2026-02-26 00:00:00,@cloud_expert,Great customer support! Resolved my query in under 5 minutes. highly recommend.,Positive
+POST0196,2026-02-26 00:00:00,@data_queen,Standard data analytics platform. Has all the basic features you'd expect.,Neutral
+POST0279,2026-02-26 00:00:00,@biz_leader,Just downloaded the new analytics tool. Let's see how it compares to others.,Neutral
+POST0284,2026-02-26 00:00:00,@it_manager,Great customer support! Resolved my query in under 5 minutes. highly recommend. Thanks to the developers!,Positive
+POST0300,2026-02-26 00:00:00,@tech_guru,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0374,2026-02-26 00:00:00,@cloud_expert,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0343,2026-02-27 00:00:00,@code_ninja,The pricing model is a complete rip-off. Too expensive for such basic features.,Negative
+POST0355,2026-02-27 00:00:00,@analyst_sam,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0144,2026-02-28 00:00:00,@it_manager,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0032,2026-03-01 00:00:00,@tech_guru,The pricing model is a complete rip-off. Too expensive for such basic features.,Negative
+POST0104,2026-03-01 00:00:00,@code_ninja,Standard data analytics platform. Has all the basic features you'd expect.,Neutral
+POST0191,2026-03-01 00:00:00,@dev_alice,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0003,2026-03-02 00:00:00,@it_manager,CODR Analytics has released its quarterly update today. #tech #software,Neutral
+POST0027,2026-03-03 00:00:00,@dev_alice,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0156,2026-03-03 00:00:00,@biz_leader,The antigravity framework is incredibly fast. Perceived latency is virtually zero! Thanks to the developers!,Positive
+POST0169,2026-03-03 00:00:00,@startup_founder,Great customer support! Resolved my query in under 5 minutes. highly recommend. Thanks to the developers!,Positive
+POST0135,2026-03-04 00:00:00,@biz_leader,The interface feels very clunky and outdated. Needs a major visual redesign.,Negative
+POST0129,2026-03-05 00:00:00,@cloud_expert,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0077,2026-03-06 00:00:00,@data_dan,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0102,2026-03-06 00:00:00,@cloud_expert,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance. Please fix this ASAP.",Negative
+POST0181,2026-03-06 00:00:00,@data_queen,The pricing model is a complete rip-off. Too expensive for such basic features.,Negative
+POST0217,2026-03-06 00:00:00,@tech_guru,Best tool in the market for data analysts. The visualization capabilities are second to none. Thanks to the developers!,Positive
+POST0351,2026-03-06 00:00:00,@data_dan,"Stunning dashboard design by CODR. Simple, clean, and highly interactive. Thanks to the developers!",Positive
+POST0016,2026-03-07 00:00:00,@it_manager,High latency and constant lag. This is definitely not the standard we expected.,Negative
+POST0090,2026-03-07 00:00:00,@code_ninja,"So easy to use, even our marketing team can run queries now. Fantastic UX design.",Positive
+POST0103,2026-03-07 00:00:00,@data_dan,Terrible experience. The dashboard crashed twice in the middle of our presentation. Please fix this ASAP.,Negative
+POST0233,2026-03-07 00:00:00,@data_dan,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0319,2026-03-08 00:00:00,@dev_alice,"So easy to use, even our marketing team can run queries now. Fantastic UX design.",Positive
+POST0377,2026-03-08 00:00:00,@cloud_expert,Encountered a major bug in the SQL query parser. It threw a database connection timeout again. Please fix this ASAP.,Negative
+POST0070,2026-03-09 00:00:00,@data_dan,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0092,2026-03-09 00:00:00,@code_ninja,The pricing model is a complete rip-off. Too expensive for such basic features.,Negative
+POST0134,2026-03-09 00:00:00,@analyst_sam,Extremely disappointed with the latest update. The interface keeps freezing on load.,Negative
+POST0400,2026-03-09 00:00:00,@it_manager,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0085,2026-03-10 00:00:00,@analyst_sam,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response.",Negative
+POST0187,2026-03-10 00:00:00,@biz_leader,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance. Please fix this ASAP.",Negative
+POST0285,2026-03-10 00:00:00,@analyst_sam,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance. Please fix this ASAP.",Negative
+POST0365,2026-03-10 00:00:00,@it_manager,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0382,2026-03-10 00:00:00,@data_queen,CODR Analytics has released its quarterly update today. #tech #software,Neutral
+POST0015,2026-03-12 00:00:00,@startup_founder,"This software is a game changer for our business intelligence pipeline. Great job, team!",Positive
+POST0310,2026-03-12 00:00:00,@data_dan,We are currently evaluating multiple BI tools for our team's workflow.,Neutral
+POST0383,2026-03-12 00:00:00,@analyst_sam,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0180,2026-03-13 00:00:00,@data_queen,Great customer support! Resolved my query in under 5 minutes. highly recommend.,Positive
+POST0316,2026-03-13 00:00:00,@startup_founder,"Stunning dashboard design by CODR. Simple, clean, and highly interactive. Thanks to the developers!",Positive
+POST0081,2026-03-14 00:00:00,@dev_alice,Standard data analytics platform. Has all the basic features you'd expect.,Neutral
+POST0197,2026-03-14 00:00:00,@code_ninja,High latency and constant lag. This is definitely not the standard we expected.,Negative
+POST0386,2026-03-14 00:00:00,@cloud_expert,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance. Please fix this ASAP.",Negative
+POST0013,2026-03-15 00:00:00,@it_manager,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0227,2026-03-16 00:00:00,@code_ninja,We are currently evaluating multiple BI tools for our team's workflow.,Neutral
+POST0228,2026-03-16 00:00:00,@it_manager,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response. Please fix this ASAP.",Negative
+POST0358,2026-03-16 00:00:00,@data_queen,Terrible experience. The dashboard crashed twice in the middle of our presentation. Please fix this ASAP.,Negative
+POST0031,2026-03-17 00:00:00,@data_queen,Looking for recommendations for a reliable forecasting tool. Any thoughts?,Neutral
+POST0050,2026-03-17 00:00:00,@biz_leader,We are currently evaluating multiple BI tools for our team's workflow.,Neutral
+POST0110,2026-03-17 00:00:00,@code_ninja,Encountered a major bug in the SQL query parser. It threw a database connection timeout again.,Negative
+POST0277,2026-03-17 00:00:00,@startup_founder,The interface feels very clunky and outdated. Needs a major visual redesign.,Negative
+POST0345,2026-03-17 00:00:00,@data_dan,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0066,2026-03-18 00:00:00,@tech_guru,"So easy to use, even our marketing team can run queries now. Fantastic UX design.",Positive
+POST0079,2026-03-18 00:00:00,@dev_alice,Encountered a major bug in the SQL query parser. It threw a database connection timeout again. Please fix this ASAP.,Negative
+POST0356,2026-03-18 00:00:00,@tech_guru,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0242,2026-03-19 00:00:00,@analyst_sam,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0375,2026-03-19 00:00:00,@code_ninja,Great customer support! Resolved my query in under 5 minutes. highly recommend. Thanks to the developers!,Positive
+POST0038,2026-03-20 00:00:00,@startup_founder,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0067,2026-03-20 00:00:00,@tech_guru,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0163,2026-03-20 00:00:00,@tech_guru,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0190,2026-03-20 00:00:00,@it_manager,"So easy to use, even our marketing team can run queries now. Fantastic UX design.",Positive
+POST0260,2026-03-20 00:00:00,@data_queen,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0359,2026-03-20 00:00:00,@dev_alice,Just downloaded the new analytics tool. Let's see how it compares to others.,Neutral
+POST0075,2026-03-21 00:00:00,@data_dan,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0150,2026-03-21 00:00:00,@dev_alice,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0259,2026-03-21 00:00:00,@code_ninja,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0304,2026-03-21 00:00:00,@tech_guru,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0314,2026-03-21 00:00:00,@data_dan,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0332,2026-03-21 00:00:00,@data_dan,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0384,2026-03-21 00:00:00,@data_dan,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0249,2026-03-22 00:00:00,@startup_founder,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0391,2026-03-22 00:00:00,@startup_founder,The interface feels very clunky and outdated. Needs a major visual redesign. Please fix this ASAP.,Negative
+POST0186,2026-03-23 00:00:00,@code_ninja,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance.",Negative
+POST0373,2026-03-23 00:00:00,@analyst_sam,Great customer support! Resolved my query in under 5 minutes. highly recommend. Thanks to the developers!,Positive
+POST0045,2026-03-24 00:00:00,@data_queen,Best tool in the market for data analysts. The visualization capabilities are second to none. Thanks to the developers!,Positive
+POST0101,2026-03-24 00:00:00,@tech_guru,"Stunning dashboard design by CODR. Simple, clean, and highly interactive. Thanks to the developers!",Positive
+POST0266,2026-03-24 00:00:00,@code_ninja,The antigravity framework is incredibly fast. Perceived latency is virtually zero! Thanks to the developers!,Positive
+POST0307,2026-03-24 00:00:00,@cloud_expert,Full of bugs and random crashes. Do not waste your money on this. Please fix this ASAP.,Negative
+POST0331,2026-03-24 00:00:00,@it_manager,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0094,2026-03-25 00:00:00,@startup_founder,The interface feels very clunky and outdated. Needs a major visual redesign. Please fix this ASAP.,Negative
+POST0254,2026-03-25 00:00:00,@analyst_sam,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response. Please fix this ASAP.",Negative
+POST0350,2026-03-25 00:00:00,@it_manager,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0152,2026-03-26 00:00:00,@code_ninja,The pricing model is a complete rip-off. Too expensive for such basic features.,Negative
+POST0185,2026-03-26 00:00:00,@cloud_expert,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0398,2026-03-26 00:00:00,@dev_alice,High latency and constant lag. This is definitely not the standard we expected. Please fix this ASAP.,Negative
+POST0236,2026-03-27 00:00:00,@analyst_sam,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0390,2026-03-27 00:00:00,@tech_guru,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0120,2026-03-28 00:00:00,@startup_founder,New version released. Testing the query speeds on our staging server.,Neutral
+POST0189,2026-03-28 00:00:00,@data_queen,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0278,2026-03-28 00:00:00,@it_manager,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response.",Negative
+POST0339,2026-03-28 00:00:00,@cloud_expert,Looking for recommendations for a reliable forecasting tool. Any thoughts?,Neutral
+POST0349,2026-03-28 00:00:00,@it_manager,The antigravity framework is incredibly fast. Perceived latency is virtually zero!,Positive
+POST0171,2026-03-29 00:00:00,@code_ninja,Encountered a major bug in the SQL query parser. It threw a database connection timeout again. Please fix this ASAP.,Negative
+POST0262,2026-03-29 00:00:00,@startup_founder,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0267,2026-03-29 00:00:00,@data_dan,The pricing model is a complete rip-off. Too expensive for such basic features. Please fix this ASAP.,Negative
+POST0276,2026-03-29 00:00:00,@dev_alice,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance.",Negative
+POST0291,2026-03-29 00:00:00,@tech_guru,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0303,2026-03-29 00:00:00,@code_ninja,Full of bugs and random crashes. Do not waste your money on this.,Negative
+POST0311,2026-03-29 00:00:00,@dev_alice,New version released. Testing the query speeds on our staging server.,Neutral
+POST0010,2026-03-30 00:00:00,@it_manager,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business,Positive
+POST0034,2026-03-30 00:00:00,@dev_alice,Encountered a major bug in the SQL query parser. It threw a database connection timeout again. Please fix this ASAP.,Negative
+POST0106,2026-03-30 00:00:00,@code_ninja,"So easy to use, even our marketing team can run queries now. Fantastic UX design.",Positive
+POST0334,2026-03-30 00:00:00,@data_dan,Just downloaded the new analytics tool. Let's see how it compares to others.,Neutral
+POST0122,2026-03-31 00:00:00,@tech_guru,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0208,2026-03-31 00:00:00,@tech_guru,The interface feels very clunky and outdated. Needs a major visual redesign.,Negative
+POST0256,2026-04-01 00:00:00,@cloud_expert,The interface feels very clunky and outdated. Needs a major visual redesign.,Negative
+POST0388,2026-04-01 00:00:00,@tech_guru,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0051,2026-04-02 00:00:00,@dev_alice,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0089,2026-04-02 00:00:00,@cloud_expert,The antigravity framework is incredibly fast. Perceived latency is virtually zero! Thanks to the developers!,Positive
+POST0098,2026-04-02 00:00:00,@code_ninja,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0218,2026-04-02 00:00:00,@startup_founder,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0337,2026-04-02 00:00:00,@cloud_expert,We are currently evaluating multiple BI tools for our team's workflow.,Neutral
+POST0068,2026-04-03 00:00:00,@analyst_sam,"This app is so slow, it takes minutes to load a simple CSV. Unacceptable performance. Please fix this ASAP.",Negative
+POST0073,2026-04-03 00:00:00,@analyst_sam,New version released. Testing the query speeds on our staging server.,Neutral
+POST0084,2026-04-03 00:00:00,@analyst_sam,The interface feels very clunky and outdated. Needs a major visual redesign. Please fix this ASAP.,Negative
+POST0147,2026-04-03 00:00:00,@cloud_expert,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0160,2026-04-03 00:00:00,@data_dan,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0203,2026-04-03 00:00:00,@data_dan,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0212,2026-04-03 00:00:00,@cloud_expert,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0071,2026-04-04 00:00:00,@startup_founder,Terrible experience. The dashboard crashed twice in the middle of our presentation. Please fix this ASAP.,Negative
+POST0222,2026-04-04 00:00:00,@biz_leader,Great customer support! Resolved my query in under 5 minutes. highly recommend.,Positive
+POST0289,2026-04-04 00:00:00,@it_manager,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0315,2026-04-05 00:00:00,@data_dan,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0321,2026-04-06 00:00:00,@analyst_sam,Just downloaded the new analytics tool. Let's see how it compares to others.,Neutral
+POST0379,2026-04-06 00:00:00,@data_dan,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0059,2026-04-07 00:00:00,@cloud_expert,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response. Please fix this ASAP.",Negative
+POST0237,2026-04-07 00:00:00,@code_ninja,Terrible experience. The dashboard crashed twice in the middle of our presentation.,Negative
+POST0313,2026-04-07 00:00:00,@biz_leader,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response. Please fix this ASAP.",Negative
+POST0042,2026-04-08 00:00:00,@cloud_expert,"This software is a game changer for our business intelligence pipeline. Great job, team!",Positive
+POST0175,2026-04-08 00:00:00,@code_ninja,CODR Analytics has released its quarterly update today. #tech #software,Neutral
+POST0037,2026-04-09 00:00:00,@data_queen,Best tool in the market for data analysts. The visualization capabilities are second to none. Thanks to the developers!,Positive
+POST0132,2026-04-09 00:00:00,@cloud_expert,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0022,2026-04-10 00:00:00,@startup_founder,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0176,2026-04-10 00:00:00,@biz_leader,"This software is a game changer for our business intelligence pipeline. Great job, team!",Positive
+POST0188,2026-04-10 00:00:00,@startup_founder,CODR Analytics has released its quarterly update today. #tech #software,Neutral
+POST0309,2026-04-10 00:00:00,@analyst_sam,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0363,2026-04-10 00:00:00,@code_ninja,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0393,2026-04-10 00:00:00,@startup_founder,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0035,2026-04-11 00:00:00,@it_manager,High latency and constant lag. This is definitely not the standard we expected. Please fix this ASAP.,Negative
+POST0044,2026-04-11 00:00:00,@dev_alice,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0083,2026-04-11 00:00:00,@data_dan,The antigravity framework is incredibly fast. Perceived latency is virtually zero! Thanks to the developers!,Positive
+POST0139,2026-04-11 00:00:00,@startup_founder,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response.",Negative
+POST0226,2026-04-12 00:00:00,@data_dan,"So easy to use, even our marketing team can run queries now. Fantastic UX design.",Positive
+POST0352,2026-04-12 00:00:00,@data_dan,The antigravity framework is incredibly fast. Perceived latency is virtually zero!,Positive
+POST0387,2026-04-12 00:00:00,@code_ninja,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0062,2026-04-13 00:00:00,@it_manager,Best tool in the market for data analysts. The visualization capabilities are second to none. Thanks to the developers!,Positive
+POST0086,2026-04-13 00:00:00,@dev_alice,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0018,2026-04-14 00:00:00,@biz_leader,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0115,2026-04-14 00:00:00,@data_queen,Best tool in the market for data analysts. The visualization capabilities are second to none. Thanks to the developers!,Positive
+POST0380,2026-04-14 00:00:00,@startup_founder,New version released. Testing the query speeds on our staging server.,Neutral
+POST0397,2026-04-14 00:00:00,@data_queen,Full of bugs and random crashes. Do not waste your money on this. Please fix this ASAP.,Negative
+POST0012,2026-04-15 00:00:00,@code_ninja,The app underwent scheduled server maintenance last night. No major changes noticed.,Neutral
+POST0041,2026-04-15 00:00:00,@data_queen,CODR Analytics has released its quarterly update today. #tech #software,Neutral
+POST0049,2026-04-15 00:00:00,@data_dan,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0072,2026-04-15 00:00:00,@code_ninja,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0182,2026-04-15 00:00:00,@it_manager,"Stunning dashboard design by CODR. Simple, clean, and highly interactive. Thanks to the developers!",Positive
+POST0007,2026-04-16 00:00:00,@startup_founder,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0121,2026-04-16 00:00:00,@tech_guru,"So easy to use, even our marketing team can run queries now. Fantastic UX design.",Positive
+POST0130,2026-04-16 00:00:00,@data_queen,Best tool in the market for data analysts. The visualization capabilities are second to none.,Positive
+POST0253,2026-04-16 00:00:00,@data_queen,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel.",Positive
+POST0312,2026-04-16 00:00:00,@data_queen,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0302,2026-04-17 00:00:00,@dev_alice,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0140,2026-04-18 00:00:00,@cloud_expert,Great customer support! Resolved my query in under 5 minutes. highly recommend. Thanks to the developers!,Positive
+POST0209,2026-04-18 00:00:00,@tech_guru,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0240,2026-04-18 00:00:00,@code_ninja,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0290,2026-04-19 00:00:00,@code_ninja,The documentation is extremely outdated. Half of the API endpoints don't work as documented.,Negative
+POST0133,2026-04-20 00:00:00,@biz_leader,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
+POST0138,2026-04-20 00:00:00,@tech_guru,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0229,2026-04-20 00:00:00,@it_manager,The pricing model is a complete rip-off. Too expensive for such basic features.,Negative
+POST0246,2026-04-20 00:00:00,@biz_leader,"Excellent product! Clean code, solid documentation, and flawless execution.",Positive
+POST0341,2026-04-20 00:00:00,@data_dan,The antigravity framework is incredibly fast. Perceived latency is virtually zero! Thanks to the developers!,Positive
+POST0342,2026-04-20 00:00:00,@cloud_expert,The antigravity framework is incredibly fast. Perceived latency is virtually zero! Thanks to the developers!,Positive
+POST0395,2026-04-20 00:00:00,@code_ninja,"This software is a game changer for our business intelligence pipeline. Great job, team!",Positive
+POST0023,2026-04-21 00:00:00,@dev_alice,Great customer support! Resolved my query in under 5 minutes. highly recommend.,Positive
+POST0283,2026-04-21 00:00:00,@data_queen,Just finished configuring the database connection. Ready to start analysis.,Neutral
+POST0317,2026-04-21 00:00:00,@it_manager,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat.,Positive
+POST0371,2026-04-21 00:00:00,@biz_leader,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0004,2026-04-22 00:00:00,@dev_alice,Terrible experience. The dashboard crashed twice in the middle of our presentation. Please fix this ASAP.,Negative
+POST0043,2026-04-22 00:00:00,@code_ninja,Standard data analytics platform. Has all the basic features you'd expect.,Neutral
+POST0216,2026-04-22 00:00:00,@cloud_expert,CODR Analytics has released its quarterly update today. #tech #software,Neutral
+POST0272,2026-04-22 00:00:00,@biz_leader,Best tool in the market for data analysts. The visualization capabilities are second to none. Thanks to the developers!,Positive
+POST0306,2026-04-22 00:00:00,@startup_founder,"Excellent product! Clean code, solid documentation, and flawless execution. Thanks to the developers!",Positive
+POST0318,2026-04-23 00:00:00,@code_ninja,Reading a comparison article between various Python NLP libraries today.,Neutral
+POST0335,2026-04-23 00:00:00,@dev_alice,New version released. Testing the query speeds on our staging server.,Neutral
+POST0151,2026-04-24 00:00:00,@it_manager,The pricing model is a complete rip-off. Too expensive for such basic features.,Negative
+POST0205,2026-04-24 00:00:00,@cloud_expert,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0354,2026-04-24 00:00:00,@dev_alice,Is there a way to export the reports to PDF directly? Checking the documentation now.,Neutral
+POST0195,2026-04-25 00:00:00,@data_dan,"Stunning dashboard design by CODR. Simple, clean, and highly interactive. Thanks to the developers!",Positive
+POST0323,2026-04-25 00:00:00,@data_dan,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business Thanks to the developers!,Positive
+POST0333,2026-04-25 00:00:00,@code_ninja,"Smooth transitions, high speed, and elegant aesthetics. Truly premium feel. Thanks to the developers!",Positive
+POST0368,2026-04-25 00:00:00,@tech_guru,New version released. Testing the query speeds on our staging server.,Neutral
+POST0225,2026-04-26 00:00:00,@analyst_sam,CODR Analytics has released its quarterly update today. #tech #software,Neutral
+POST0322,2026-04-26 00:00:00,@tech_guru,"Stunning dashboard design by CODR. Simple, clean, and highly interactive.",Positive
+POST0008,2026-04-27 00:00:00,@startup_founder,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response. Please fix this ASAP.",Negative
+POST0250,2026-04-27 00:00:00,@analyst_sam,"Customer support is completely unresponsive. Opened a ticket 3 days ago, still no response.",Negative
+POST0014,2026-04-28 00:00:00,@data_queen,Absolutely love the new CODR Analytics tool! It has saved us hours of work. #dataanalytics #business,Positive
+POST0029,2026-04-28 00:00:00,@data_queen,"Stunning dashboard design by CODR. Simple, clean, and highly interactive. Thanks to the developers!",Positive
+POST0265,2026-04-28 00:00:00,@tech_guru,The documentation is extremely outdated. Half of the API endpoints don't work as documented. Please fix this ASAP.,Negative
+POST0273,2026-04-28 00:00:00,@it_manager,We are currently evaluating multiple BI tools for our team's workflow.,Neutral
+POST0394,2026-04-28 00:00:00,@cloud_expert,"This software is a game changer for our business intelligence pipeline. Great job, team!",Positive
+POST0100,2026-04-30 00:00:00,@data_dan,"This software is a game changer for our business intelligence pipeline. Great job, team! Thanks to the developers!",Positive
+POST0320,2026-04-30 00:00:00,@it_manager,Incredibly impressed with the performance scaling. Handles millions of rows without a sweat. Thanks to the developers!,Positive
+POST0399,2026-04-30 00:00:00,@analyst_sam,"So easy to use, even our marketing team can run queries now. Fantastic UX design. Thanks to the developers!",Positive
